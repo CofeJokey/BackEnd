@@ -1,0 +1,9 @@
+[{"id":"0", "name":"Support", "image":"Solo.jpg",
+  "power":"3", "speed":"2"},
+  {"id":"2", "name":"Hardlane", "image":"Me.jpg",
+    "power":"10", "speed":"9"},
+  {"id":"3", "name":"Jax", "image":"Jax.jpg",
+    "power":"5", "speed":"7"},
+  {"id":"4", "name":"Plotva", "image":"Plotva.jpg",
+    "power":"4", "speed":"6"}
+]
